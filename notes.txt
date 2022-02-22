@@ -1,0 +1,11 @@
+Vy Phan
+G00958063
+CS 551
+
+Assignment 5
+
+I enjoyed this assignment very much actually. The most challenging task was to understand the process of making a sphere. Since the sphere has its triangles stitched from top to bottom and the triangle orientation is flipped, it took me a while to correctly connect the correct vertices for the correct triangles.
+
+Thomas Rigger, as always, helped me out. We learned and understood more by discussing the concept of the project, which is both fun and helpful.
+
+
